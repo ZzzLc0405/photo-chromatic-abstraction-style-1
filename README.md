@@ -58,9 +58,9 @@ Skill 会根据照片自适应选择色域数量、色域比例、分隔方式�
 
 ## 示例
 
-| --- | --- |
-| <img src="assets/examples/01-cloud-bank-circles.jpg" alt="Cloud bank translated into unequal circular accents" width="420"> | <img src="assets/examples/02-twilight-single-circle.jpg" alt="Twilight chromatic abstraction with a single circle" width="420"> |
-| <img src="assets/examples/03-twilight-single-rhombus.jpg" alt="Twilight chromatic abstraction with a single rhombus" width="420"> | <img src="assets/examples/04-moon-over-foliage-single-circle.jpg" alt="Moon over foliage chromatic abstraction" width="420"> |
+
+<img src="assets/examples/01-cloud-bank-circles.jpg" alt="Cloud bank translated into unequal circular accents" width="420"> | <img src="assets/examples/02-twilight-single-circle.jpg" alt="Twilight chromatic abstraction with a single circle" width="420"> |
+<img src="assets/examples/03-twilight-single-rhombus.jpg" alt="Twilight chromatic abstraction with a single rhombus" width="420"> | <img src="assets/examples/04-moon-over-foliage-single-circle.jpg" alt="Moon over foliage chromatic abstraction" width="420"> |
 
 ## 输出约束
 
