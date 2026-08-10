@@ -1,0 +1,4 @@
+interface:
+  display_name: "照片色彩抽象 Style 1"
+  short_description: "以色彩权重为主，将照片提炼为带1至5个来源点缀的可编辑极简构成"
+  default_prompt: "Use $photo-chromatic-abstraction-style-1 to translate this photo into an editable Style-1 chromatic memory composition."
